@@ -226,3 +226,8 @@ tick();
 ```
 
 t.b.c : 23:01
+
+We can also use the raycaster to see mouse hovering effects
+first we are hoing to see the hovering parts
+mouse hover detection
+get position of cursor -1 to 1
